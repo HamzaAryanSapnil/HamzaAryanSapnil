@@ -1,3 +1,6 @@
+
+![linkedin cover photo](https://github.com/user-attachments/assets/8bde9f23-258b-49c9-9bd5-8e44d70033cb)
+
 # 💫 About Me:
 I'm a full-stack web developer based in Bangladesh.
 
