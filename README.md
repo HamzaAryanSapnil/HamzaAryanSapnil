@@ -2,7 +2,7 @@
 ![linkedin cover photo](https://github.com/user-attachments/assets/8bde9f23-258b-49c9-9bd5-8e44d70033cb)
 
 # 💫 About Me:
-Full Stack Web Developer (MERN / Next.js) seeking an entry-level position to contribute to building scalable, secure web applications. Skilled in authentication flows, payment integrations, responsive UI development, and RESTful API design using modern JavaScript frameworks.
+Ambitious and detail-oriented Full Stack Web Developer (MERN / Next.js) actively pursuing an entry-level position to utilize my strong expertise in building responsive, production-ready web applications. I take pride in delivering clean, efficient code, engaging with cutting-edge JavaScript frameworks, and implementing secure payment and authentication solutions. My commitment to continuous improvement drives me to stay at the forefront of industry trends through personal and portfolio projects.
 
 # My Portfolio: [Hamza Aryan Sapnil](https://my-portfolio-3d-pi.vercel.app/)
 
