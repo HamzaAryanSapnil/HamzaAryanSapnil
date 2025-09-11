@@ -2,7 +2,7 @@
 ![linkedin cover photo](https://github.com/user-attachments/assets/8bde9f23-258b-49c9-9bd5-8e44d70033cb)
 
 # 💫 About Me:
-I'm a full-stack web developer based in Bangladesh.
+Full Stack Web Developer (MERN / Next.js) seeking an entry-level position to contribute to building scalable, secure web applications. Skilled in authentication flows, payment integrations, responsive UI development, and RESTful API design using modern JavaScript frameworks.
 
 # My Portfolio: [Hamza Aryan Sapnil](https://my-portfolio-3d-pi.vercel.app/)
 
